@@ -1,5 +1,4 @@
 # **CipherCraft - A command-line tool for classical cryptography**
----
 
 #### **Installation :**
   
